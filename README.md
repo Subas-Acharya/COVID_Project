@@ -6,9 +6,9 @@ Despite the global efforts to mitigate ongoing COVID-19 pandemic, the disease tr
 
 Please refer to (archive link) for more information.
 
-There are 8 datasets included here. One for the country (Nepal) and the rest for each of the 7 provinces.
+## Datasets description:
 
-*Dataset descriptions:
+There are 8 datasets included here. One for the country (Nepal) and the rest for each of the 7 provinces.
 
 There are 7 columns in nepal dataset. 
 1. Date
